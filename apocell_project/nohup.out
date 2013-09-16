@@ -1,0 +1,23 @@
+Bottle v0.12-dev server starting up (using TornadoServer())...
+Listening on http://0.0.0.0:8000/
+Hit Ctrl-C to quit.
+
+WARNING:root:404 GET /favicon.ico (127.0.0.1) 3.68ms
+WARNING:root:404 GET /favicon.ico (127.0.0.1) 0.94ms
+WARNING:root:404 GET /documents (172.16.28.48) 1.59ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 1.36ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 1.52ms
+WARNING:root:404 GET /Documents (172.16.28.48) 1.59ms
+WARNING:root:404 GET /favicon.ico (127.0.0.1) 1.66ms
+WARNING:root:404 GET /favicon.ico (127.0.0.1) 1.57ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 1.68ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 1.54ms
+WARNING:root:404 GET /Desktop/pca.jpeg (172.16.32.22) 1.16ms
+WARNING:root:404 GET /Desktop/pca.jpeg (172.16.32.22) 1.15ms
+WARNING:root:404 GET /favicon.ico (172.16.32.22) 0.94ms
+WARNING:root:404 GET /favicon.ico (172.16.32.22) 0.90ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 0.98ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 0.94ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 0.99ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 0.99ms
+WARNING:root:404 GET /favicon.ico (172.16.28.48) 0.85ms
